@@ -13,3 +13,7 @@
 ## 打包
 
 `npm run build`
+
+## 后台地址
+
+https://github.com/echonanguo/lemall
